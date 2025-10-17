@@ -39,7 +39,4 @@ It currently includes the **Parametrizable ALU** and the **4:1 Multiplexer (MUX)
    vsim tb_ALU
    add wave *
    run 100ns
-   🧠 Summary
-Module	Description	Testbench
-ALU	Parametrizable arithmetic and logic unit supporting add, sub, AND, OR, XOR, NOR, shifts	✅ tb_ALU.sv
-MUX4to1	4-to-1 multiplexer with parameterizable width	✅ tb_MUX4to1.sv
+  
